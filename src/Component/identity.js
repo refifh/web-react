@@ -12,9 +12,9 @@ const Identitas = () => {
                         <Image src={Fotome}/>    
                     </Col>
                     <Col>
-                        <h1><Badge variant="secondary">Refi Ahmad Fahriza</Badge></h1>
+                        <h1><Badge variant="secondary">Profile</Badge></h1>
                         <p>
-                        My name Refi Ahmad Fahriza, 25 years old, bachelor degree of informatics from Universitas Islam Indonesia. I am a kind a passionate person to my job. I take my tasks seriously and be responsible to it. I am flexible, easy to get along with people. I got some skills as written in my CV such as code skills with PHP HTML, Python, understanding database system, GIT, JIRA, Adobe XD, ReactJS and React Native. Unless I am excited to learn new stuff and I love to develop myself.
+                        My name Refi Ahmad Fahriza, 25 years old, bachelor degree of Informatics from Universitas Islam Indonesia. I am a kind a passionate person to my job. I take my tasks seriously and be responsible to it. I am flexible, easy to get along with people. I got some skills as written in my CV such as code skills with PHP HTML, Python, understanding database system, GIT, JIRA, Adobe XD, ReactJS and React Native. Unless I am excited to learn new stuff and I love to develop myself.
                         </p>
                     </Col>
                 </Row>
