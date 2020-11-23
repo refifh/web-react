@@ -4,7 +4,7 @@ import Image from 'react-bootstrap/Image';
 
 const Gmbrheader = () => {
     return (
-        <div>
+        <div id='profil'>
             <Image width='100%' src={Gmbratas} fluid />
         </div>
     );
