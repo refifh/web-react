@@ -10,7 +10,7 @@ const Pendidikan = () => {
                 <h1 Text style={{textAlignVertical: "center",textAlign: "center"}}>Educations</h1>
                 <CardDeck>
                     <Card>
-                        <Card.Img variant="top" src={smala} />
+                        <Card.Img  variant="center" width='300px' src={smala} />
                         <Card.Body>
                             <Card.Title><h1>SMA Negeri 5 Purwokerto</h1></Card.Title>
                             <Card.Text>
@@ -24,7 +24,7 @@ const Pendidikan = () => {
                         </Card.Footer>
                     </Card>
                     <Card>
-                        <Card.Img variant="top" src={kampus} />
+                        <Card.Img variant="center" width='50%' src={kampus} />
                         <Card.Body>
                             <Card.Title><h1>Universitas Islam Indonesia</h1></Card.Title>
                             <Card.Text>
