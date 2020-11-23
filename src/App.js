@@ -11,7 +11,7 @@ import Hubsaya from './Component/callme';
 function App() {
   return (
     <>
-    <Navigasi />
+    <Navigasi /><br/>
     <Gmbrheader />
     <Identitas />
     <Pendidikan />
