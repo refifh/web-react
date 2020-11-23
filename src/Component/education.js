@@ -6,11 +6,15 @@ import smala from '../assets/sman5.png';
 const Pendidikan = () => {
     return (
         <div id='pendidikan'>
-            <Container>
+            <Container><hr/>
                 <h1 Text style={{textAlignVertical: "center",textAlign: "center"}}>Educations</h1>
                 <CardDeck>
                     <Card>
-                        <Card.Img  variant="center" width='300px' src={smala} />
+                        <Card.Img 
+                            class="rounded mx-auto d-block" 
+                            variant="center" 
+                            width='300px' 
+                            src={smala} />
                         <Card.Body>
                             <Card.Title><h1>SMA Negeri 5 Purwokerto</h1></Card.Title>
                             <Card.Text>
@@ -24,7 +28,11 @@ const Pendidikan = () => {
                         </Card.Footer>
                     </Card>
                     <Card>
-                        <Card.Img variant="center" width='50%' src={kampus} />
+                        <Card.Img
+                            class="rounded mx-auto d-block" 
+                            variant="center" 
+                            width='50%' 
+                            src={kampus} />
                         <Card.Body>
                             <Card.Title><h1>Universitas Islam Indonesia</h1></Card.Title>
                             <Card.Text>
