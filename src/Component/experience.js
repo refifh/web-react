@@ -5,7 +5,7 @@ const Pengalaman = () => {
     return (
         <div>
             <Container id='pengalaman'>
-                <h1>Experience</h1>
+                <h1 Text style={{textAlignVertical: "center",textAlign: "center"}}>Experience</h1>
             </Container>
         </div>
     )
