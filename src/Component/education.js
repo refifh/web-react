@@ -7,9 +7,7 @@ const Pendidikan = () => {
     return (
         <div id='pendidikan'>
             <Container>
-                <h1>
-                    Educations
-                </h1>
+                <h1 Text style={{textAlignVertical: "center",textAlign: "center"}}>Educations</h1>
                 <CardDeck>
                     <Card>
                         <Card.Img variant="top" src={smala} />
